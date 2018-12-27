@@ -21,3 +21,7 @@ end
 def first_element_with_array(array)
   return array.shift
 end
+
+def last_element_with_array(array)
+  return array.pop
+end
